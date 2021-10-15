@@ -13,8 +13,8 @@
 - 🔭 I’m currently working on a [New Website][website]!
 - 🌱 I’m currently learning new technologies 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create more content on my youtube channel [B2 Tech][youtube]
-- ⚡ Hobbies: CS Go, Call of duty, Cycling and Listening music
+- 🥅 2021 Goals: Create more content on my youtube channel [Afodamz][youtube]
+- ⚡ Hobbies: Listening music, Playing soccer 
 
 ### Connect with me:
 
@@ -23,6 +23,8 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 <br />
 
@@ -52,34 +54,15 @@
 <br/>
 
 ---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=afodamz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Spring Boot Project Structure Explained](https://bushansirgur.in/spring-boot-project-structure-explained/)
-- [How to include one JSP in another JSP Example](https://bushansirgur.in/how-to-include-one-jsp-in-another-jsp-example/)
-- [JSP Built in Objects with Examples](https://bushansirgur.in/jsp-built-in-objects-with-examples/)
-- [Call Java method from JSP Example](https://bushansirgur.in/call-java-method-from-jsp-example/)
-- [JSP Declaration Tag Example](https://bushansirgur.in/jsp-declaration-tag-example/)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- --- -->
-
-<!-- ### 📺 Latest YouTube Videos -->
-<!-- YOUTUBE:START
-- [Spring Boot and Hibernate REST API Tutorial with MySQL Database | Full Course [2021 Edition]](https://www.youtube.com/watch?v=1O-e7FYB7wU)
-- [Spring and Spring Boot annotations | Full course [2021]](https://www.youtube.com/watch?v=o6-gRZfQqOE)
-- [Spring Security Tutorial - Part 1 - Default Configuration](https://www.youtube.com/watch?v=z9WdDxeydJs)
-- [Full Stack Application - Angular and Spring Boot | Full course [2021 Edition]](https://www.youtube.com/watch?v=G3IyZvR2VW0)
-- [Spring Boot and MongoDB REST API Tutorial (Deployed to Heroku) | Full Course [2021 Edition]](https://www.youtube.com/watch?v=i0V3WzYW4II) -->
-<!-- YOUTUBE:END -->
-
-<!-- --- -->
+---
 
 
 
 
-[website]: https://bushansirgur.in
-[twitter]: https://twitter.com/bushan_sirgur
-[youtube]: https://youtube.com/b2tech
-[instagram]: https://instagram.com/bushan_sirgur
-[linkedin]: https://linkedin.com/in/bushan-sc
+[website]: http://afodamz.herokuapp.com/
+[twitter]: http://twitter.com/afodamz
+[youtube]: https://www.youtube.com/channel/UCp0jUdFSTDEi4gmZljQ9SOg
+[instagram]: https://www.instagram.com/afodamz/
+[linkedin]: https://www.linkedin.com/in/afodamz
