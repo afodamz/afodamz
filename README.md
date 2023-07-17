@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a [New Website][website]!
 - 🌱 I’m currently learning new technologies 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Create more content on my youtube channel [Afodamz][youtube]
+- 🥅 2023 Goals: Improve my cloud computation and devops skills
 - ⚡ Hobbies: Listening music, Playing soccer 
 
 ### Connect with me:
