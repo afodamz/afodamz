@@ -9,7 +9,7 @@
 <br><img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
 
-## I'm a Software Engineer, prospective Cybersecurity analyst, Youtuber, and Teacher!
+## I'm a Software/DevOps Engineer, prospective Cybersecurity analyst, and i Teach Coding!
 - 🔭 I’m currently working on a [New Website][website]!
 - 🌱 I’m currently learning new technologies 🤣
 - 👯 I’m looking to collaborate with other software engineers
