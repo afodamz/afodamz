@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on a [New Website][website]!
 - 🌱 I’m currently learning new technologies 🤣
 - 👯 I’m looking to collaborate with other software engineers
-- 🥅 2023 Goals: Improve my cloud computation and devops skills and get into cybersecurity
+- 🥅 2024 Goals: Improve my cloud computation, cybersecurity and devops skills and get into Business side of the world
 <!-- - 🥅 2023 Goals: Improve my cloud computation and devops skills and get into cybersecurity [Afodamz][youtube] -->
 - ⚡ Hobbies: Listening music, Playing soccer 
 
